@@ -28,15 +28,26 @@
 
 ## 🚀 **Key Projects**
 
-### **Foodie**
-- Developed a **recipe book website** with a blog component using **Python, MySQL, Tkinter, and SpeechRecognition**.
-- Integrated **voice recognition** for enhanced recipe search and accessibility.
-- Built a **community hub** for user interaction and engagement.
+### **Clique – Campus E-commerce Platform**
+- Designed and developed a **full-stack campus marketplace application** with user authentication and role-based access control.
+- Built **secure and modular backend APIs**, ensuring data integrity and safe transactions.
+- Optimized **database queries** to improve response time and scalability.
+- Followed **clean code practices, OOP principles, and maintainable system design**.
 
-### **Clique**
-- Built a **campus-based e-commerce platform** for buying and selling second-hand items using **Next.js, JavaScript, and MongoDB**.
-- Implemented **secure authentication** and optimized the UI for a smooth user experience.
-- Promoted **affordability and sustainability** by reducing waste.
+### **Foodie – Recipe Book & Community Platform**
+- Developed a **recipe book website** with an integrated blog and community features using **Python, MySQL, Tkinter, and SpeechRecognition**.
+- Implemented **voice-based recipe search** to enhance accessibility and user experience.
+- Built a **community interaction module** to enable engagement and content sharing among users.
+
+### **Personal Portfolio Website**
+- Developed a **responsive personal portfolio website** using **HTML, CSS, and JavaScript**.
+- Focused on **clean UI design**, responsiveness, and professional presentation.
+
+### **Backend & Console Applications (Mini Projects)**
+- Built multiple **backend console applications** in **C++ and Python** to strengthen **DSA and problem-solving skills**.
+- Implemented **OOP-based algorithms** and **REST-style backend services** with clean, maintainable code.
+- Practiced **system design fundamentals** through modular and reusable implementations.
+
 
 ---
 
