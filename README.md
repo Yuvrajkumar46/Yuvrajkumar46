@@ -1,12 +1,12 @@
 # **👋 Hey there! I'm Yuvraj Kumar Jaiswal** 
-<hr style="border">
-**🚀 Computer Science Student | 👨‍💻 Competitive Coder | 💡 Aspiring Developer** <p align="center">
+
+🚀 Computer Science Student | 👨‍💻 Competitive Coder | 💡 Aspiring Developer <p align="center">
    <img src="https://komarev.com/ghpvc/?username=yuvrajkumarjaiswal&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-💡 Passionate **Computer Science student** at **VIT Bhopal University** [cite: 4, 5] exploring the endless possibilities of **technology**.  
-🌍 I love building **scalable applications**, solving **complex problems**, and working with technologies like **Next.js, Python, and MongoDB**[cite: 12, 17, 31, 32].  
-💡 Always up for a **coding challenge** (200+ problems solved on LeetCode & CodeChef) [cite: 57] and on the lookout for **exciting internship opportunities**.  
+💡 Passionate **Computer Science student** at **VIT Bhopal University** exploring the endless possibilities of **technology**.  
+🌍 I love building **scalable applications**, solving **complex problems**, and working with technologies like **Next.js, Python, and MongoDB**.  
+💡 Always up for a **coding challenge** (200+ problems solved on LeetCode & CodeChef) and on the lookout for **exciting internship opportunities**.  
 🎯 Let's connect and build something **amazing together!** 
 
 ---
@@ -20,9 +20,9 @@
 
 📩 **Reach out to me:**  
 📩 **Email:**  
-- [yuvrajkumarjaiswal2022@vitbhopal.ac.in](mailto:yuvrajkumarjaiswal2022@vitbhopal.ac.in)  
-- [yuvrajkumar92081@gmail.com](mailto:yuvrajkumar92081@gmail.com)
-📄 **Check my LinkedIn:** **[View Here](https://linkedin.com/in/yuvraj-kumar-jaiswal-832559252)** 
+- [✉️ Email (College)][yuvrajkumarjaiswal2022@vitbhopal.ac.in](mailto:yuvrajkumarjaiswal2022@vitbhopal.ac.in)  
+- [✉️ Email (Personal)][yuvrajkumar92081@gmail.com](mailto:yuvrajkumar92081@gmail.com)<br>
+💼 **Check my LinkedIn:** **[Here You Go🤝](https://linkedin.com/in/yuvraj-kumar-jaiswal-832559252)** 
 
 ---
 
