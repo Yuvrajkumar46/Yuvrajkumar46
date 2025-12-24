@@ -1,35 +1,39 @@
-# **👋 Hey there! I'm Yuvraj Kumar Jaiswal** ### **🚀 Computer Science Student | 👨‍💻 Competitive Coder | 💡 Aspiring Developer** <p align="center">
+# **👋 Hey there! I'm Yuvraj Kumar Jaiswal** 
+<hr style="border: 1px solid black;">
+**🚀 Computer Science Student | 👨‍💻 Competitive Coder | 💡 Aspiring Developer** <p align="center">
    <img src="https://komarev.com/ghpvc/?username=yuvrajkumarjaiswal&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-[cite_start]💡 Passionate **Computer Science student** at **VIT Bhopal University** [cite: 4, 5] exploring the endless possibilities of **technology**.  
-[cite_start]🌍 I love building **scalable applications**, solving **complex problems**, and working with technologies like **Next.js, Python, and MongoDB**[cite: 12, 17, 31, 32].  
-[cite_start]💡 Always up for a **coding challenge** (200+ problems solved on LeetCode & CodeChef) [cite: 57] and on the lookout for **exciting internship opportunities**.  
+💡 Passionate **Computer Science student** at **VIT Bhopal University** [cite: 4, 5] exploring the endless possibilities of **technology**.  
+🌍 I love building **scalable applications**, solving **complex problems**, and working with technologies like **Next.js, Python, and MongoDB**[cite: 12, 17, 31, 32].  
+💡 Always up for a **coding challenge** (200+ problems solved on LeetCode & CodeChef) [cite: 57] and on the lookout for **exciting internship opportunities**.  
 🎯 Let's connect and build something **amazing together!** ---
 
 ## 🔥 **What I'm Up To?**
-- [cite_start]💻 Currently building **Clique**, a campus-based e-commerce platform for second-hand items[cite: 16, 24].
-- [cite_start]💡 Continuously strengthening **Data Structures & Algorithms** (DSA) and **OOP** concepts[cite: 29, 34].
-- [cite_start]🌱 Learning about **Computer Networks, Operating Systems, and DBMS**[cite: 34].
-- [cite_start]💬 Ask me about **C++, Python, Next.js, MySQL, and more!** [cite: 12, 17, 31, 32]
+- 💻 Currently building **Clique**, a campus-based e-commerce platform for second-hand items.
+- 💡 Continuously strengthening **Data Structures & Algorithms** (DSA) and **OOP** concepts.
+- 🌱 Learning about **Computer Networks, Operating Systems, and DBMS**.
+- 💬 Ask me about **C++, Python, Next.js, MySQL, and more!**.
 - 🎯 Open to **collaborations & internship opportunities**.  
 
-[cite_start]📩 **Reach out to me:** **[✉️](mailto:yuvrajkumarjaiswal2022@vitbhopal.ac.in)** [cite: 3]  
-[cite_start]📄 **Check my LinkedIn:** **[View Here](https://linkedin.com/in/yuvraj-kumar-jaiswal-832559252)** [cite: 3]
+📩 **Reach out to me:**  
+[✉️](mailto:yuvrajkumarjaiswal2022@vitbhopal.ac.in)  
+[✉️](mailto:yuvrajkumar92081@gmail.com)
+📄 **Check my LinkedIn:** **[View Here](https://linkedin.com/in/yuvraj-kumar-jaiswal-832559252)** 
 
 ---
 
 ## 🚀 **Key Projects**
 
 ### **Foodie**
-- [cite_start]Developed a **recipe book website** with a blog component using **Python, MySQL, Tkinter, and SpeechRecognition**[cite: 11, 12, 13].
-- [cite_start]Integrated **voice recognition** for enhanced recipe search and accessibility[cite: 14].
-- [cite_start]Built a **community hub** for user interaction and engagement[cite: 15].
+- Developed a **recipe book website** with a blog component using **Python, MySQL, Tkinter, and SpeechRecognition**.
+- Integrated **voice recognition** for enhanced recipe search and accessibility.
+- Built a **community hub** for user interaction and engagement.
 
 ### **Clique**
-- [cite_start]Built a **campus-based e-commerce platform** for buying and selling second-hand items using **Next.js, JavaScript, and MongoDB**[cite: 16, 17, 24].
-- [cite_start]Implemented **secure authentication** and optimized the UI for a smooth user experience[cite: 25].
-- [cite_start]Promoted **affordability and sustainability** by reducing waste[cite: 24].
+- Built a **campus-based e-commerce platform** for buying and selling second-hand items using **Next.js, JavaScript, and MongoDB**.
+- Implemented **secure authentication** and optimized the UI for a smooth user experience.
+- Promoted **affordability and sustainability** by reducing waste.
 
 ---
 
@@ -39,10 +43,13 @@
   <img src="https://skillicons.dev/icons?i=php,cs,linux" />
 </p>
 
-[cite_start]**Core Languages:** C, C++, Java, Python, PHP, C# [cite: 31]  
-[cite_start]**Web & Frameworks:** Next.js, HTML, CSS, JavaScript [cite: 31]  
-[cite_start]**Databases:** MySQL, MongoDB [cite: 32]  
-[cite_start]**Tools & Libraries:** VS Code, Git, GitHub, Pandas, NumPy, Tkinter [cite: 31, 33]  
+**Core Languages:** C, C++, Java, Python, PHP, HTML, CSS, JavaScript, TypeScript  
+**Backend Development:** REST APIs, Microservices, Scalable Systems Design, Real-Time Communication, Secure Coding, OOP, SOLID Principles  
+**Frameworks & Libraries:** Spring Boot, Next.js, Pandas, NumPy, Tkinter, React, Tailwind CSS, Styled Components  
+**Databases:** MySQL, MongoDB, SQL (Advanced Querying), Data Warehousing (DWH)  
+**Tools & Platforms:** VS Code, Git, GitHub, Linux (Basics), Power BI, Microsoft Azure, AWS, Figma (UI/UX Design)  
+**Core Concepts:** DSA, DBMS, Computer Networks, Operating Systems, ETL (Extract, Transform, Load), Data Cleaning & Transformation, Data Visualization & Reporting, Business Intelligence (BI), Analytical Thinking, Problem Solving  
+   
 
 ---
 
@@ -62,10 +69,24 @@
 ---
 
 ## 🎖️ **Leadership & Activities**
-- [cite_start]**President, Debate Club** (O.P. Jindal School): Coordinated weekly meetings, organized competitions, and **grew the budget by 30%**[cite: 47, 49, 50].
-- [cite_start]**Project Leader, Environmental Awareness Group**: Led campaigns reducing **campus waste by 30%** and organized workshops on sustainability[cite: 52, 53, 54].
-- [cite_start]**Competitive Coding:** Active in competitive coding with **200+ problems** solved on LeetCode & CodeChef[cite: 57].
-- [cite_start]**Sports:** Represented the school cricket team in inter-school tournaments[cite: 56].
+- **President, Debate Club** (O.P. Jindal School): Coordinated weekly meetings, organized competitions, and **grew the budget by 30%**.
+- **Project Leader, Environmental Awareness Group**: Led campaigns reducing **campus waste by 30%** and organized workshops on sustainability.
+- **Competitive Coding:** Active in competitive coding with **200+ problems** solved on LeetCode & CodeChef.
+- **Sports:** Represented the school cricket team in inter-school tournaments.
+
+---
+
+## 📄 Resume
+
+<p align="left">
+  <a href="https://github.com/Yuvrajkumar46/Resume/blob/main/Resume.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/View%20Resume-0077B5?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
+  </a>
+  <a href="https://drive.google.com/file/d/1KEMHPnwINcr7b9vFAHeb_w0R4hcfbBSl/view?usp=sharing" download>
+    <img src="https://img.shields.io/badge/Download%20Resume-0A0A0A?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
 
 ---
 
