@@ -1,6 +1,6 @@
 # **👋 Hey there! I'm Yuvraj Kumar Jaiswal** 
 
-🚀 Computer Science Student | 👨‍💻 Competitive Coder | 💡 Aspiring Developer <p align="center">
+🚀 Computer Science Student | 👨‍💻 Competitive Coder | 💡 Aspiring Developer <p align="left">
    <img src="https://komarev.com/ghpvc/?username=yuvrajkumarjaiswal&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
@@ -18,11 +18,11 @@
 - 💬 Ask me about **C++, Python, Next.js, MySQL, and more!**.
 - 🎯 Open to **collaborations & internship opportunities**.  
 
-📩 **Reach out to me:**  
-📩 **Email:**  
-- [✉️ Email (College)][yuvrajkumarjaiswal2022@vitbhopal.ac.in](mailto:yuvrajkumarjaiswal2022@vitbhopal.ac.in)  
-- [✉️ Email (Personal)][yuvrajkumar92081@gmail.com](mailto:yuvrajkumar92081@gmail.com)<br>
-💼 **Check my LinkedIn:** **[Here You Go🤝](https://linkedin.com/in/yuvraj-kumar-jaiswal-832559252)** 
+📩 **Reach out to me:**<br>
+   📩 **Email:**  
+      - ✉️ Email (College) - [yuvrajkumarjaiswal2022@vitbhopal.ac.in](mailto:yuvrajkumarjaiswal2022@vitbhopal.ac.in)  
+      - ✉️ Email (Personal) - [yuvrajkumar92081@gmail.com](mailto:yuvrajkumar92081@gmail.com)<br>
+   💼 **Check my LinkedIn:** **[Here You Go🤝](https://linkedin.com/in/yuvraj-kumar-jaiswal-832559252)** 
 
 ---
 
