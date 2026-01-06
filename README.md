@@ -67,20 +67,6 @@
 
 ---
 
-## 📊 **GitHub Stats**
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yuvrajkumarjaiswal&show_icons=true&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yuvrajkumarjaiswal&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuvrajkumarjaiswal&layout=compact&theme=radical" />
-</p>
-
----
 
 ## 🎖️ **Leadership & Activities**
 - **President, Debate Club** (O.P. Jindal School): Coordinated weekly meetings, organized competitions, and **grew the budget by 30%**.
